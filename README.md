@@ -1,5 +1,8 @@
 # Ethereum Block Explorer
 
+![Снимок экрана 2024-02-19 234237](https://github.com/Roneviy/blockexplorer/assets/147179910/8360c60f-39b2-40c3-a2d2-f99d16510da8)
+
+
 The lessons this week covered the Ethereum JSON-RPC API and the `ethers.js` library giving us the ability to query the Ethereum blockchain and make transactions!
 
 Let's put that knowledge to the test by building our very own **Ethereum Block Explorer**!
